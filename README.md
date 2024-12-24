@@ -10,7 +10,7 @@ This repository contains a comprehensive dataset of 10,000 prompts organized int
 - Creative inspiration
 - Training data for AI models
 
-## Premium Dataset Available
+# Premium 100k Dataset Available
 
 🌟 **Looking for even more prompts?** Check out the expanded collection of 100,000+ meticulously curated prompts available on [Patreon](https://www.patreon.com/echohive42/shop/100-000-unique-chatbot-prompt-from-every-818530)
 
