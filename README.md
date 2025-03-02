@@ -12,8 +12,6 @@ This repository contains a comprehensive dataset of 10,000 prompts organized int
 
 # Premium 100k Dataset Available
 
-🌟 **Looking for even more prompts?** Check out the expanded collection of 100,000+ meticulously curated prompts available on [Patreon](https://www.patreon.com/echohive42/shop/100-000-unique-chatbot-prompt-from-every-818530)
-
 This premium dataset would cost ~$200 when generated with gpt-4o, offering 10x more depth and variety across all categories. Perfect for chatbot developers, professional content creators, educators, and researchers.
 
 ## Dataset Structure
